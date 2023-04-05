@@ -37,7 +37,7 @@
 <h3 align="center">
   :mag: Total de Visitas no perfil :mag: <br>
    <p align="center">
-     <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Dev-Oliveira/count.svg" />
+     <img alingn="center" src="https://profile-counter.glitch.me/VictorDiego-t/count.svg" />
    </h3>
   </p>
 </div>
