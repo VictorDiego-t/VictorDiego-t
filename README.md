@@ -13,6 +13,10 @@
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
+## <br /> :calling: Contato / contact me :calling:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515992566588&text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-diego-tarasinsky-santos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victordiego3top@gmail.com) 
 
 <h2 align="left">I code with</h2>
 
@@ -30,3 +34,15 @@
 </div>
 
 ###
+<h3 align="center">
+  :mag: Total de Visitas no perfil :mag: <br>
+   <p align="center">
+     <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Dev-Oliveira/count.svg" />
+   </h3>
+  </p>
+</div>
+
+
+<p align="center" width=100%>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
